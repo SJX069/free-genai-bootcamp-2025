@@ -20,3 +20,5 @@ There is a concerned of copyrighted materials so we must purchase and supply mat
 ## Considerations
 
 We are considering using IBM granite because its a truley open-source model with training data that is traceable so we can avoid any kind of copyright issues and we are able to know what is going on in the model
+
+https://huggingface.co/ibm-granite
